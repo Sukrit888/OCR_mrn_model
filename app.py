@@ -15,7 +15,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("🧾 MRN Image OCR Extractor")
+st.title("AI Based Old Meter to New Smart Meter Replacement Data Audit")
 st.caption("Upload a Meter Replacement Notice (MRN) image to extract verified data.")
 
 # =====================================================
